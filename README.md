@@ -17,7 +17,8 @@ FYI: My [previous account](https://github.com/Sanskriti-Harmukh) got disabled du
 
 - ⚡ Fun fact : **I love to play the *Ukulele.***
 
-P.S. I like infusing humor into my talks, creating a light-hearted atmosphere while breaking down complex concepts for easier comprehension. (Sometimes jokes can be lame!)
+P.S. I enjoy infusing humor into my talks, creating a light-hearted atmosphere while breaking down complex concepts for easier understanding. (Though, I'll admit, sometimes my jokes can be a bit lame!)
+
 
 
 <h3 align="center">Volunteering and Community Experiences:</h3>
