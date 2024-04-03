@@ -15,8 +15,6 @@
 
 - 📝 I love to document my learnings in the form of `blogs and twitter threads.`
 
-- 📫 How to reach me **sanskritiharmukh1908@gmail.com**.
-
 - ⚡ Fun fact : **I love to play the *Ukulele.***
 
 P.S. I like infusing humor into my talks, creating a light-hearted atmosphere while breaking down complex concepts for easier comprehension. (Sometimes jokes can be lame!)
@@ -84,8 +82,8 @@ P.S. I like infusing humor into my talks, creating a light-hearted atmosphere wh
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskritiharmukh&show_icons=true&locale=en&layout=compact" alt="sanskritiharmukh" /></p>-->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiHarmukh&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="sanskritiharmukh" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SanskritiHarmukh&theme=prussian" alt="sanskritiharmukh" /></p>
-<p align="center"><a href="https://github.com/SanskritiHarmukh/github-readme-stats"><img alt="Sanskriti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiHarmukh&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="sanskritiharmukh" /></a>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanskriti-Harmukh&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="sanskritiharmukh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sanskriti-Harmukh&theme=prussian" alt="sanskritiharmukh" /></p>
+<p align="center"><a href="https://github.com/SanskritiHarmukh/github-readme-stats"><img alt="Sanskriti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti-Harmukh&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="sanskritiharmukh" /></a>
 
 
